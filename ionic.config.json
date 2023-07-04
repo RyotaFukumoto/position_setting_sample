@@ -1,0 +1,7 @@
+{
+  "name": "position_setting_sample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
